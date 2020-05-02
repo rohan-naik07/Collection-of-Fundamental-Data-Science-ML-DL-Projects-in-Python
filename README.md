@@ -14,5 +14,5 @@ These 10 projects were choosen through 2 websites:</br>
 
 
 **Contributors**</br>
-Rohan Limaye: https://github.com/rylp</br>
-Rohan Naik: https://github.com/rohan-naik07</br>
+Rohan Limaye: https://github.com/rylp
+Rohan Naik: https://github.com/rohan-naik07
