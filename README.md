@@ -3,16 +3,16 @@ This Repository contains 10 Fundamental Grassroots-driven Machine Learning & Dee
 
 The link for all the data sets and the best fitting models developed for it have been provided in the individual folders.
 
-**Contents**</br>
+## Contents
 Insert here
 
 
-**References**</br>
+## References
 These 10 projects were choosen through 2 websites:</br>
 1. **Analytics Vidhya** : https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/</br>
 2. **Dezyre/ProjectPro** : https://www.dezyre.com/article/top-10-machine-learning-projects-for-beginners/397</br>
 
 
-**Contributors**</br>
-Rohan Limaye: https://github.com/rylp
-Rohan Naik: https://github.com/rohan-naik07
+## Contributors
+-Rohan Limaye: https://github.com/rylp </br>
+-Rohan Naik: https://github.com/rohan-naik07 </br>
