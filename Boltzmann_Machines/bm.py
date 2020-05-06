@@ -103,34 +103,3 @@ for id_user in range(0,nb_users):
         test_loss+=torch.mean(torch.abs(v0[v0 >= 0]-vk[v0 >=0]))
         s+=1.
 print('loss is '+str(test_loss/s))
-
-
-  
-
-
-
-
-
-
-
-
-
-
-    
-    
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
