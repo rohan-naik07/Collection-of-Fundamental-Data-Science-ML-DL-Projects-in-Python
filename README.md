@@ -18,23 +18,23 @@ These projects were chosen through 2 websites:</br>
 
 * **Regression**
 
-    1.xyz</br>
-    2.abc</br>
+    1.dffw</br>
+    2.frf</br>
     3.bro</br>
 
 ***
 
 * **Classification**
 
-    1.ccc</br>
+    1.Titanic survival prediction</br>
     2.ff</br>
 
 ***
 
 * **Computer Vision (CV)**
 
-    1.ddd</br>
-    2.hhh</br>
+    1.Cats and Dogs classifier</br>
+    2.Digit Recognizer</br>
     
 ***
 
@@ -47,8 +47,8 @@ These projects were chosen through 2 websites:</br>
 
 * **Miscellaneous**
 
-    1.ff</br>
-    2.gg</br>
+    1.Fraud Customer Detection using Self Organizing Maps</br>
+    2.Recommender System using Boltzmann machines</br>
     
 ***
 
