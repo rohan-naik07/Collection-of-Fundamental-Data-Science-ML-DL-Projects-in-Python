@@ -45,6 +45,7 @@ These projects were chosen through 2 websites:</br>
 
     1.Fraud Customer Detection using Self Organizing Maps</br>
     2.Recommender System using Boltzmann machines</br>
+    3.Flipkart Website - Web scrapping
     
 ***
 
