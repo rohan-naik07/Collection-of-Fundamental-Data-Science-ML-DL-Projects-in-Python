@@ -22,15 +22,21 @@ These projects were chosen through 2 websites:</br>
 
 * **Classification**
 
-    1.Titanic survival prediction</br>
-    2.ff</br>
+    1.Titanic Survival Prediction</br>
+    2.Breast Cancer Prediction</br>
+    3.Iris-Flower Classification</br>
+    4.Cardography STG Classifier</br>
+    5.Loan Prediction </br>
 
 ***
 
 * **Computer Vision (CV)**
 
-    1.Cats and Dogs classifier</br>
+    1.Animals Classifier</br>
     2.Digit Recognizer</br>
+    3.Fashion MNIST Recognizer</br>
+    4.Santa/Not-Santa Classifier</br>
+    5.Rock-Paper-Scissor Recognizer</br>
     
 ***
 
